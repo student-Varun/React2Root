@@ -37,7 +37,7 @@ import bash from './assets/tech_logo/bash.png';
 // Experience Section Logo's
 import To_Let_Globe from './assets/company_logo/To_Let_Globe.jpg';
 import securegen from './assets/company_logo/securegen.jpg'
-import StelloTech from './assets/company_logo/StelloTech.jpg'
+import stelloTech from './assets/company_logo/stelloTech.jpg'
 
 
 // Education Section Logo's
@@ -139,7 +139,7 @@ export const SkillsInfo = [
     },
     {
       id: 1,
-      img: StelloTech,
+      img: stelloTech,
       role: "Full-Stack Developer",
       company: "StelloTech (Part-Time)",
       date: "Oct 2024 - Jan 2025",
